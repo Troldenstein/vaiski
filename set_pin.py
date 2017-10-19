@@ -1,3 +1,10 @@
+'''
+Author:  Troldenstein
+Created: 19.10.2017
+
+use at your own risk, ABSOLUTELY NO WARRANTY
+'''
+
 import RPi.GPIO as GPIO
 import sys
 
